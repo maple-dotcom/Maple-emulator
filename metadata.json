@@ -1,0 +1,6 @@
+{
+  "name": "NovaVM Emulator",
+  "description": "NovaVM is a premium, powerful x86 PC emulation workspace and virtual machine configuration suite designed for Android 8.0+. Boot interactive simulations of Windows 98, Windows XP, and Linux terminals directly in-browser, generate tailored QEMU/Limbo scripts, and access optimized ROM collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
